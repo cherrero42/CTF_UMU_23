@@ -1,7 +1,9 @@
 # CTF_UMU_23
- CTF Cybercamp UMU  08-07-2023 08:00  
+ CTF Cybercamp UMU  8/9 de julio de 2023
  Online 
- Organizado por Universidad de Murcia 
+ Organizado por Universidad de Murcia
+
+ Equipo de 42 Málaga en el Top Ten
  
  https://eventos.um.es/101051/detail/ctf-cybercamp-umu.html
 
